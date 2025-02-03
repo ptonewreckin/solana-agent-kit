@@ -34,7 +34,7 @@
     "@langchain/groq": "^0.1.2",
     "@langchain/langgraph": "^0.2.36",
     "@langchain/openai": "^0.3.16",
-    "@lightprotocol/compressed-token": "^0.17.1",
+    "@lightprotocol/compressed-token": "^0.18.0",
     "@lightprotocol/stateless.js": "^0.17.1",
     "@metaplex-foundation/digital-asset-standard-api": "^1.0.4",
     "@metaplex-foundation/mpl-core": "^1.1.1",
